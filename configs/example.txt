@@ -1,0 +1,5 @@
+! Exemple volontairement sans commande destructive
+service timestamps log datetime msec
+no ip http server
+ip ssh version 2
+
