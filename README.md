@@ -60,3 +60,6 @@ Python 3.11, Netmiko 4.x, Cisco IOS et IOS-XE accessibles en SSH. Certains parse
 
 MIT.
 
+## Programmes avancés
+
+Le dossier `programs/` contient cinq audits complets : conformité IOS, sauvegarde et dérive, capacité des interfaces, topologie/redondance et conformité logicielle par version majoritaire.
